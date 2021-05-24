@@ -1,0 +1,51 @@
+export const feeds_ = [
+  {
+    id: '001',
+    title: 'Astronauts would land on Red Planet by 2039',
+    source: 'BBC',
+    time: 1613307789379,
+    channel: 'weather',
+  },
+  {
+    id: '002',
+    title: 'Astronauts would land on Red Planet by 2039',
+    source: 'NTA',
+    time: 1613307774938,
+    channel: 'security',
+  },
+  {
+    id: '003',
+    title: 'Astronauts would land on Red Planet by 2039',
+    source: 'FOX',
+    time: 1613300099138,
+    channel: 'autos',
+  },
+  {
+    id: '004',
+    title: 'Astronauts would land on Red Planet by 2039',
+    source: 'TVC',
+    time: 1613033789138,
+    channel: 'health',
+  },
+  {
+    id: '005',
+    title: 'Astronauts would land on Red Planet by 2039',
+    source: 'BBC',
+    time: 1613307793138,
+    channel: 'technology',
+  },
+  {
+    id: '006',
+    title: 'Astronauts would land on Red Planet by 2039',
+    source: 'BBC',
+    time: 1613398489138,
+    channel: 'sport',
+  },
+  {
+    id: '007',
+    title: 'Astronauts would land on Red Planet by 2039',
+    source: 'MBC E!',
+    time: 1613307095138,
+    channel: 'finance',
+  },
+];
